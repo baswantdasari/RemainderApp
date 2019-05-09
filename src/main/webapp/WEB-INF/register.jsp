@@ -11,8 +11,7 @@
 </head>
 <body>
 <form:form id="regForm" modelAttribute="user" action="registerProcess" method="post">
-
-    <table align="center">
+    <table>
         <tr>
             <td colspan="2">
                 <h2>Register for Remainder App</h2>
